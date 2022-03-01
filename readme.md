@@ -52,7 +52,7 @@ Route::get('user/(:num)', function($id)
 return Redirect::to('profile')->with('message', 'Welcome Back!');
 ```
 
-## Contributing to Laravel
+## Contributing to the Laravel
 
 Contributions are encouraged and welcome; however, please review the Developer
 Certificate of Origin in the "license.txt" file included in the repository. All
